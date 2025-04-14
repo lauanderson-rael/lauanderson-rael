@@ -38,6 +38,6 @@
 </div>&nbsp;&nbsp;
 
 ## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/lauanderson-rael/count.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=120&section=footer"/>
