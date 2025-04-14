@@ -37,4 +37,7 @@
     <a href="https://youtube.com/channel/UCvGvh2gJS44gfOiFB3HvUUg?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/-YouTube-%25230077B5?style=for-the-badge&logo=youtube&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
 
+## Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=120&section=footer"/>
