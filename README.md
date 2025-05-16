@@ -1,6 +1,6 @@
 <h2 align="center"> Hi, I'm Lauanderson Rael 👨‍💻</h2>
 
-<p align="center">🚀 Passionate about challenges and technology, I'm a junior web developer with expertise in HTML, CSS, and JavaScript, taking my first steps into the world of React. Currently enrolled in the 2nd semester of Analysis and Systems Development. I love exploring new technologies and using them to create innovative, high-quality solutions.
+<p align="center">🚀 Passionate about challenges and technology, I'm a junior web developer with expertise in HTML, CSS, and JavaScript, taking my first steps into the world of React. Currently enrolled in the 4nd semester of Analysis and Systems Development. I love exploring new technologies and using them to create innovative, high-quality solutions.
 .</p>&nbsp;
 
 <div  align="center" style="margin-bottom:10px">
