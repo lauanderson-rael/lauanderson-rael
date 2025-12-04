@@ -1,6 +1,6 @@
 <h2 align="center"> Hi, I'm Lauanderson Rael 👨‍💻</h2>
 
-<p align="center">🚀 Passionate about challenges and technology, I'm a junior web developer with expertise in HTML, CSS, and JavaScript, taking my first steps into the world of React. Currently enrolled in the 4nd semester of Analysis and Systems Development. I love exploring new technologies and using them to create innovative, high-quality solutions.
+<p align="center">🚀 Passionate about challenges and technology, I'm a junior web developer with expertise in reactJs, NextJS, and ExpressJs, taking my first steps into the world of React. Currently enrolled in the 5nd semester of Analysis and Systems Development. I love exploring new technologies and using them to create innovative, high-quality solutions.
 .</p>&nbsp;
 
 <div  align="center" style="margin-bottom:10px">
@@ -16,9 +16,9 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React.js](https://img.shields.io/badge/React-20292A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 #### <span style="color:#b5b5b5">Databases:</span>
