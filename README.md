@@ -34,7 +34,7 @@
     <a href = "mailto:lauanderson38@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23355?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/lauanderson.rael" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/lauanderson-rael-a68b2b16a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-    <a href="https://youtube.com/channel/UCvGvh2gJS44gfOiFB3HvUUg?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/-YouTube-%25230077B5?style=for-the-badge&logo=youtube&logoColor=white"  target="_blank"></a> 
+  <a href="https://youtube.com/channel/UCvGvh2gJS44gfOiFB3HvUUg?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>&nbsp;&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=120&section=footer"/>
